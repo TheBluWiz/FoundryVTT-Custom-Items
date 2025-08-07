@@ -10,6 +10,4 @@
 
 - ~~Player can decrease the permanent HP drain by 1 point per full day of rest as a downtime activity in a safe and comfortable location.~~
 
-<!-- The Fortitude Save Adjustments need to be updated in the bloodstone.js file -->
-
 These adjustments will prevent "unlimited" spell heightening, and potentnially encourage players to use the item even though it is cursed.
