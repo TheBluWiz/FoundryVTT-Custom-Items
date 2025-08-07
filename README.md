@@ -12,4 +12,4 @@ Feel free to [reach out](mailto:thebluwiz@icloud.com) with any balancing reccome
 ## Author
 Happy Dming!!
 
-![The Blu Wiz](./theBluWiz.jpg)
+![The Blu Wiz](./assets/theBluWiz.jpg)
