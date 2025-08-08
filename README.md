@@ -1,4 +1,4 @@
-# FoundryVTT Custom Items
+# FoundryVTT Custom Items [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
 This is a collection of custom Pathfinder 2E Foundry VTT items designed by theBluWiz. I LOVE Pathfinder and am confident this collection will only continue to grow. 
 ## Provide Feedback
@@ -7,8 +7,8 @@ Feel free to [reach out](mailto:thebluwiz@icloud.com) with any balancing reccome
 ## Next Steps
 - Make FoundryVTT Custom Items an installable module. 
 - Provide common troubleshooting steps.
-- Add icons for custom items
-- Add license badge to README.md
+- ~~Add icons for custom items~~
+- ~~Add license badge to README.md~~
 ## Author
 Happy Dming!!
 
